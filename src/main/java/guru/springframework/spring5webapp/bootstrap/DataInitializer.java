@@ -1,5 +1,6 @@
-package guru.springframework.spring5webapp.domain;
+package guru.springframework.spring5webapp.bootstrap;
 
+import guru.springframework.spring5webapp.domain.Book;
 import guru.springframework.spring5webapp.repository.BookRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
